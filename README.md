@@ -10,5 +10,4 @@ The project can be compiled with Microsoft Visual Studio 2019
 (https://www.visualstudio.com/downloads/). 
 Running the Game.sln file should compile all the relevant .h and .cpp files, or they can be set up manually.
 
-To compile on macOS, install Xcode from the App Store. Each chapter has
-a corresponding .vcxproj file. (Note: This is currently untested)
+To compile on macOS, install Xcode from the App Store and run TextBasedAdventure.vcxproj file. (Note: This is currently untested)
